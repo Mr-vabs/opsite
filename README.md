@@ -1,3 +1,3 @@
 # opsite
 
-https://mr-vabs.github.io/opsite/
+Deployment : [deployed](https://mr-vabs.github.io/opsite/)
